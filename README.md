@@ -15,4 +15,4 @@ It includes form validation and a clean, user-friendly interface.
 - **CSS3** – Styling and responsive design  
 - **JavaScript** – Form validation & dynamic features  
 ## 📸 Screenshots
-*(new.jpg)*
+*(new.JPG)*
