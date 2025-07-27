@@ -14,5 +14,4 @@ It includes form validation and a clean, user-friendly interface.
 - **HTML5** – Structure of the website  
 - **CSS3** – Styling and responsive design  
 - **JavaScript** – Form validation & dynamic features  
-## 📸 Screenshots
-(new.JPG)
+
